@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Постовой помошник</string>
+
+    <!-- Первичная настройка -->
+    <string name="master_config">МАСТЕР ПЕРВОНАЧАЛЬНОЙ НАСРОЙКИ:</string>
+    <string name="one_time">настройка производится единоразово</string>
+    <string name="name">Имя:</string>
+    <string name="enter_name">введите ваше имя</string>
+    <string name="man_or_women">Пол:</string>
+    <string name="man">мужской</string>
+    <string name="woman">женский</string>
+    <string name="birthday">Дата рождения:</string>
+    <string name="day">День:</string>
+    <string name="month">Месяц:</string>
+    <string name="year">Год:</string>
+    <string name="length">Рост:</string>
+    <string name="ves">Вес:</string>
+    <string name="get_up">Я просыпаюсь в</string>
+    <string name="go_slip">Ложусь спать в</string>
+    <string name="hour">ч</string>
+    <string name="minutes">м</string>
+    <string name="weight_size">Следить за изменением веса;</string>
+    <string name="weight_progress">Планировать день;</string>
+    <string name="button_start">!НАЧАТЬ ПОСТ!</string>
+
+
+    <!-- Главная страница -->
+    <string name="great_abstinence">ВЕЛИКИЙ ПОСТ</string>
+    <string name="date_abstinence">03.03.2014 - 19.04.2014</string>
+
+
+
+</resources>
